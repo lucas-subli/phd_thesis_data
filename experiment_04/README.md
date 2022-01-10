@@ -1,0 +1,1 @@
+Yes instance with a path hidden inside the graph
